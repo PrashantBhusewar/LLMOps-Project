@@ -3,3 +3,5 @@ data
 QASystem.egg-info
 testing_bedrock
 test.json
+LICENSE
+.gitignore

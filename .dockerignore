@@ -1,0 +1,5 @@
+env
+data
+QASystem.egg-info
+testing_bedrock
+test.json
